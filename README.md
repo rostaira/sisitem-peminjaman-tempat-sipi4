@@ -29,6 +29,8 @@ Saya bertanggung jawab pada:
 * CSS (Bootstrap)
 * JavaScript
 
+## Desain Figma
+https://www.figma.com/design/7yU42b42rEtDHtLByvV8u8/SIPI4-DEKSTOP
 ## Screenshot
 Halaman Home:              public/images/halaman_home.png
 Halaman Gedung dan CRUD:   public/images/halaman_gedung.png
